@@ -7,7 +7,7 @@ Skills:  REACT/Express JS / JS / HTML / CSS
 - 👀 I'm interested in web development.
 - 🌱 I’m currently learning Next-Js.
 - 🙇 I have knowledge about C Programming, Java, and Shell Script.
-- 💞️ I have experience in HTML, CSS, JavaScript,React.
+- 💞️ I have experience in HTML, CSS, tailwindCss, JavaScript, React.
 
 ### programming languages
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,materialui,react)](https://skillicons.dev)
