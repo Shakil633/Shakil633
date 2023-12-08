@@ -12,7 +12,7 @@ Skills:  REACT/Express JS / JS / HTML / CSS
 ### programming languages
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,materialui,react)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakil633)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakil633&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shakil633&show_icons=true&theme=transparent)
 
