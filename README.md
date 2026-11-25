@@ -1,7 +1,5 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://i.ibb.co.com/gZVS6xRx/Neon-Tech-Developer-Portfolio-Banner.png" alt="Md. Ashikul Islam Banner" width="100%" />
-</p>
+![Banner](https://i.ibb.co.com/232B2sP2/Untitled-design-61-Copy.png)
 
 # Hi there 👋, I'm Md. Ashikul Islam (Shakil)
 ### Full-Stack Developer | React, Next.js, Node.js & Shopify Specialist
