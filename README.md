@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://i.ibb.co/9ZKMwxL/403606938-884807466238111-8403928215473969573-n.jpg)
+![Banner](https://ibb.co.com/tpf5fxcf)
 
 # Hi there 👋, I'm Md. Ashikul Islam (Shakil)
 ### Full-Stack Developer | React, Next.js, Node.js & Shopify Specialist
