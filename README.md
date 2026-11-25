@@ -1,34 +1,59 @@
+<!-- Banner -->
+![Banner](https://i.ibb.co/9ZKMwxL/403606938-884807466238111-8403928215473969573-n.jpg)
 
-<!-- banner -->
-![Alt text](https://i.ibb.co/9ZKMwxL/403606938-884807466238111-8403928215473969573-n.jpg)
+# Hi there 👋, I'm Md. Ashikul Islam (Shakil)
+### Full-Stack Developer | React, Next.js, Node.js & Shopify Specialist
 
-### Hi there 👋, I'am Ashikul Islam (Shakil)
+I am a results-driven **Full-Stack Developer** with 3+ years of hands-on experience architecting, developing, and deploying scalable web applications and custom e-commerce platforms. On the frontend, I craft responsive, high-converting user interfaces using **React.js, Next.js, TypeScript, and Tailwind CSS**. On the backend, I engineer secure RESTful APIs and database architectures using **Node.js, Express.js, MongoDB, and MySQL**. 
 
-#### Web Development
+Additionally, I specialize in **custom Shopify theme and storefront development (Liquid, Metaobjects, AJAX carts)**—building tailored, app-free solutions that optimize store performance and user experience. I thrive in collaborative environments, turning complex business requirements into clean, maintainable code.
 
-I am an experienced and passionate MEAN Stack Developer with expertise in both front-end and back-end development. With a strong foundation in HTML, CSS, JavaScript, and modern frameworks like React, I create user-friendly and visually appealing interfaces. On the back-end, I excel in utilizing the power of MongoDB, Express.js, and Node.js to build scalable and efficient web applications. My projects have ranged from small-scale applications to complex enterprise solutions, where I have implemented RESTful APIs, and integrated databases, and ensured seamless functionality. I am highly skilled in collaborating with cross-functional teams, contributing to brainstorming sessions, and resolving technical challenges. With a commitment to continuous learning, I stay updated on the latest industry trends and emerging technologies. I am dedicated to delivering high-quality solutions that exceed client expectations and contribute to the success of every project.
+---
 
-Skills: REACT/Express JS / JS / HTML / CSS
+### 🚀 About Me
+- 🔭 **Currently working on:** Full-stack web applications and custom Shopify e-commerce solutions
+- 🌱 **Currently exploring:** Advanced Next.js architectures, Cloud Deployments & Performance Optimization
+- 💬 **Ask me about:** React.js, Next.js, Node.js, MongoDB, MySQL & Shopify Liquid Development
+- ⚡ **Core Focus:** Clean Architecture, RESTful APIs, Responsive UI/UX & Speed Optimization
+- 📫 **How to reach me:** [sakilislam633@gmail.com](mailto:sakilislam633@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sakil-ahmed-513199237/)
 
-- 👀 I'm interested in web development.
-- 🌱 I’m currently learning Next-Js.
-- 🙇 I have knowledge about C Programming, Java, and Shell Script.
-- 💞️ I have experience in HTML, CSS, tailwindCss, JavaScript, React.
-- 💬 Ask me about Web Development & WordPress
-- 📫 How to reach me: Facebook
+---
 
-### programming languages
+### 🛠️ Tech Stack & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,materialui,firebase,tailwind,react)](https://skillicons.dev)
+**Frontend & E-Commerce:**
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,materialui)](https://skillicons.dev)
 
-# 📫Reach me :
+**Backend, Databases & Workflow:**
+[![Backend & Tools](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,git,github,vercel,postman)](https://skillicons.dev)
 
-[<img src="https://i.ibb.co/xLftJZP/Black-Elegant-Modern-Name-Initials-Monogram-Logo-1.png" alt="LinkedIn" width="200" height="50">](https://www.linkedin.com/in/sakil-ahmed-513199237/)
-[<img src="https://i.ibb.co/2kn8BCn/Black-Elegant-Modern-Name-Initials-Monogram-Logo-2.png" alt="Gmail" width="200" height="50">](mailto:sakilislam633@gmail.com)
-[<img src="https://i.ibb.co/7SNyMBR/Black-Elegant-Modern-Name-Initials-Monogram-Logo-3.png" alt="Facebook" width="200" height="50">](https://www.facebook.com/profile.php?id=100005672359140)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakil633&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### 📫 Connect With Me
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shakil633&show_icons=true&theme=transparent)
+<p align="left">
+  <a href="https://www.linkedin.com/in/sakil-ahmed-513199237/" target="_blank">
+    <img src="https://i.ibb.co/xLftJZP/Black-Elegant-Modern-Name-Initials-Monogram-Logo-1.png" alt="LinkedIn" width="200" height="50">
+  </a>
+  <a href="mailto:sakilislam633@gmail.com">
+    <img src="https://i.ibb.co/2kn8BCn/Black-Elegant-Modern-Name-Initials-Monogram-Logo-2.png" alt="Gmail" width="200" height="50">
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100005672359140" target="_blank">
+    <img src="https://i.ibb.co/7SNyMBR/Black-Elegant-Modern-Name-Initials-Monogram-Logo-3.png" alt="Facebook" width="200" height="50">
+  </a>
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shakil633&theme=dark)](https://git.io/streak-stats)
+---
+
+### 📊 GitHub Analytics
+
+<p align="left">
+  <a href="https://github.com/Shakil633">
+    <img src="https://github-readme-stats.vercel.app/api?username=Shakil633&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Shakil633">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakil633&layout=compact&theme=tokyonight" alt="Top Languages" />
+  </a>
+</p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shakil633&theme=tokyonight)](https://git.io/streak-stats)
