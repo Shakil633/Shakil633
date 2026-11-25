@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://i.ibb.co.com/nsWRDWW4/Modern-Full-Stack-Developer-Banner.png)
+![Banner](https://i.ibb.co.com/gZVS6xRx/Neon-Tech-Developer-Portfolio-Banner.png)
 
 # Hi there 👋, I'm Md. Ashikul Islam (Shakil)
 ### Full-Stack Developer | React, Next.js, Node.js & Shopify Specialist
